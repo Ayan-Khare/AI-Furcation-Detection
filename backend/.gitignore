@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+api/model/*.h5
+api/model/*.pt
+__pycache__/
